@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Caleb
-I'm a Full-Stack Web Developer who enjoys building responsive, user-friendly web applications. I like solving problems, learning new technologies, and creating software that people can actually use.
+I'm a Full-Stack Web Developer passionate about building responsive, user-friendly web applications. I enjoy solving real-world problems, learning new technologies, and creating software that delivers meaningful value to users.
 
 ## 🚀 What I Do
 * Full-Stack Web Development
