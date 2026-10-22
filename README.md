@@ -1,35 +1,49 @@
-# 👋 Hi, I'm Caleb
-I'm a Full-Stack Web Developer passionate about building responsive, user-friendly web applications. I enjoy solving real-world problems, learning new technologies, and creating software that delivers meaningful value to users.
+# Hi, I'm Caleb
 
-## 🚀 What I Do
-* Full-Stack Web Development
-* Responsive Website Design
-* REST API Integration
-* Database Management
+I'm a full-stack web developer focused on building useful, responsive web applications. I work across the stack, from shaping a clear user experience to implementing the backend and database behind it.
 
-## 🛠️ Tech Stack
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery
-**Backend:** PHP, Laravel, Node.js
-**Database:** MySQL, SQLite
-**Tools:** Git, GitHub, VS Code, Figma
+I'm currently open to junior full-time opportunities and freelance projects where I can contribute, keep learning, and grow with a collaborative team.
 
-## 📫 Connect With Me
-* 📧 Email:oluseguncaleb6@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/olusegun-caleb-8a7273214
-* 🌐 Portfolio: https://caleb-portfolio-eta.vercel.app
+[View my portfolio](https://caleb-portfolio-eta.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/olusegun-caleb-8a7273214) · [Email me](mailto:oluseguncaleb6@gmail.com)
 
-## ⭐ Featured Projects
+## Selected projects
 
-### 🎓 CampusFind
-A university lost-and-found platform that helps students report, find, and claim lost items.
-**Tech:** PHP • MySQL • Bootstrap • JavaScript • Html • Ajax • Jquery
+### [CampusFind](https://github.com/Calebstack/CampusFind)
+A campus wayfinding app that helps students find important locations through an interactive map, location directory, and search.
 
-### 💼 ConnectPro
-A web application built to Find & Book Trusted Local Professionals with a responsive, and secure experience.
-**Tech:** JSON • PHP • MySQL • Bootstrap • JavaScript • Html • Ajax • Jquery
+**Built with:** PHP, MySQL, Bootstrap, JavaScript, jQuery, Ajax  
+[Live demo](https://campusfind.xo.je/campus/)
 
+### [Connect Pro](https://github.com/Calebstack/ConnectPro)
+A platform for businesses and clients to coordinate services and projects, with booking and live status updates.
 
-<!---
-kabbabc/kabbabc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Built with:** PHP, MySQL, Bootstrap, JavaScript, Ajax, JSON  
+[Live demo](https://connectpro.ct.ws/booking_service/index.php)
+
+### [SamPrime](https://github.com/Calebstack/samprime)
+A vehicle showcase platform where a dealership can feature cars and connect prospective buyers with available vehicles.
+
+**Built with:** PHP, PDO, MySQL, JavaScript, HTML, CSS  
+[Live demo](https://samprime.site.je/samprime/)
+
+### [Fazobeth Ventures](https://github.com/Calebstack/fazobethbventures)
+An online store for mothers and babies, with product browsing, Paystack payments, and email-based password resets.
+
+**Built with:** PHP, PDO, MySQL, Bootstrap, JavaScript, jQuery, Ajax, Paystack API  
+[Live demo](https://fazobethventures.site.je/fazobeth)
+
+## Skills
+
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery
+- **Backend:** PHP, Laravel, Node.js, REST API integration
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, GitHub, VS Code, Figma
+
+## Background
+
+- B.Sc. in Computer Science, Redeemer's University
+- Completed a full-stack software development bootcamp at Moat Academy
+
+---
+
+Thanks for stopping by. I'm always happy to talk about a role, a collaboration, or a useful problem to solve.
