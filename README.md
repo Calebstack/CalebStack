@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a full-stack web developer with a B.Sc. in Computer Science from Redeemer's University and hands-on training from Moat Academy. I build across the stack: crafting responsive interfaces, connecting them to backend features, and working with the databases and integrations that bring a product together.
+I'm a full-stack web developer with a B.Sc. in Computer Science from Redeemer's University. I build across the stack: crafting responsive interfaces, connecting them to backend features, and working with the databases and integrations that bring a product together.
 
 I enjoy taking a practical problem from idea to usable application, and I'm looking for a team where I can contribute, learn from experienced developers, and keep growing.
 
@@ -63,7 +63,10 @@ A service-booking and collaboration platform that helps businesses and clients c
 
 ## Education
 
-- **B.Sc. Computer Science** — Redeemer's University
+- **B.Sc. in Computer Science** — Redeemer's University
+
+## Certification
+
 - **Full-Stack Software Development Bootcamp** — Moat Academy
 
 ---
